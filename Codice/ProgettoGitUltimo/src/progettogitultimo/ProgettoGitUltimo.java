@@ -22,6 +22,7 @@ public class ProgettoGitUltimo {
      System.out.println("Ciao sono lory 22");
      System.out.println("Ciao sono lory 22");
       System.out.println("Ciao sono lory 22");
+      System.out.println("Ciao sono lory 23");
     }
     
 }
